@@ -1,0 +1,8 @@
+set runtimepath=~/.vimperator
+noremap j 3j
+noremap k 3k
+set defsearch=duckduckgo
+noremap <S-j> <C-p>
+noremap <S-k> <C-n>
+highlight Normal -append opacity:0.85;
+
